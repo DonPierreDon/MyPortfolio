@@ -1,0 +1,182 @@
+{
+  "homepage": {
+    "about": {
+      "title": "About Me",
+      "1p1s": "Hi there, I'm Pierre and I'm excited to be re-converting to software development after spending several years in manual labor. ",
+      "1p2s": "I am realy curious, love to solve complex problems and learn new things.",
+      "1p3s": "I have been building",
+      "1p4s": "my technical skills by taking courses and participating in online communities, and I'm eager to apply what I've learned to real-world projects.",
+      "2p1s": "In my free time, I enjoy experimenting with new technologies and exploring new programming languages.",
+      "2p2s": " I believe that continuous learning is essential in the rapidly-evolving field of software development.",
+      "2p3s": ", and I'm committed to staying up-to-date on the latest industry trends and best practices.",
+      "2p4s": "I'm excited to bring my enthusiasm, dedication, and problem-solving skills to the world of software development.",
+      "3p1s": "If you're looking for a motivated and hard-working developer, I would love to connect with you !"
+    },
+    "sectiontitleprojects": "Projets",
+    "progskills": {
+      "title": "Programmation :",
+      "s1": "Python/Django/DRF",
+      "s2": "Javascript/vue.js/pinia/vite",
+      "s3": "Docker",
+      "s4": "Test Driven Devlopment",
+      "s5": "Html/CSS/Tailwind",
+      "s6": "Shell/Git"
+    },
+    "softskills": {
+      "title": "Atouts :",
+      "s1": "Autonomie",
+      "s2": "Travail d'equipe",
+      "s3": "Capacite d'apprentissage",
+      "s4": "Resolution de problemes",
+      "s5": "Organisation",
+      "s6": "Resilience"
+    }
+  },
+  "project1": {
+    "title": "Simple et solaire",
+    "description": {
+      "p1": "Un site web simple pour une entreprise de pause de panneaux solaires",
+      "p2": "a l'intention de personnes cherchant l'autonomie electrique"
+    },
+    "titlelist": "Enseignements majeurs",
+    "elemlist": {
+      "1": "Mise en pratique de mes competences vue.js",
+      "2": "Mise en pratique de mes competences tailwind",
+      "3": "Travailler avec une deadline",
+      "4": "Deploiement",
+      "5": "Worflows git et github"
+    }
+  },
+  "project2": {
+    "title": "Portfolio",
+    "description": {
+      "p1": "Ce meme portfolio sur lequel j'ecris en ce moment"
+    },
+    "titlelist": "l1",
+    "elemlist": {
+      "1": "Mise en pratique de mes competences vue.js",
+      "2": "Mise en pratique de mes competences tailwind",
+      "3": "Utilisation de html2pdf",
+      "4": "Worflows git et github"
+    }
+  },
+  "project3": {
+    "title": "API rest",
+    "description": {
+      "p1": "Un tutoriel Udemy de cration pour",
+      "p2": "la creation d'une application de recette de cuisine"
+    },
+    "titlelist": "l1",
+    "elemlist": {
+      "1": "Comment mettre en place un projet avec docker",
+      "2": "Comment travailler en codant les tests en premier",
+      "3": "utilisation du framework django",
+      "4": "Mise en place des applications rest."
+    }
+  },
+  "project4": {
+    "title": "Application de musique",
+    "description": {
+      "p1": "Une application pour stocker ses musiques sur le web"
+    },
+    "titlelist": "l1",
+    "elemlist": {
+      "1": "Comment creer un application vue.js",
+      "2": "Utiliser pinia",
+      "3": "utilisation de firestore pour la gestion de la base de donnes",
+      "4": "les différents domaines d'application des tests",
+      "5": "le deploiement avec vercel"
+    }
+  },
+  "CV": {
+    "export": "Recuperer le PDF",
+    "name": "DONNADIEU pierre",
+    "asp": "Aspirant developeur",
+    "left": {
+      "t1": "Contact",
+      "tphone": "Telephone",
+      "phone": "+07 54 00 90 07",
+      "tlocation": "Adresse",
+      "location": "8 rue des petunias, 34070 Montpellier, France",
+      "temail": "mail",
+      "email": "pierre@donnadieu.fr",
+      "t2": "Programmation",
+      "skill1": "HTML/CSS/tasilwindCSS",
+      "skill2": "Python/Django/DRF",
+      "skill3": "Javascript/Vue.js/pinia",
+      "skill4": "Docker",
+      "skill5": "Test Driven Developpement",
+      "skill6": "Firestore/Vercel",
+      "t3": "Education en ligne",
+      "fe1": "Open Classroom",
+      "fe2": "Udemy",
+      "t4": "Ce que j'apprend en ce moment",
+      "cl1": "Data Science",
+      "cl2": "Promt Engeneering pour differetes IA",
+      "t5": "Centres d'interet et loisirs",
+      "ih1": "Art Martiaux",
+      "ih2": "Lecture",
+      "ih3": "Science",
+      "ih4": "Developpement Personnel",
+      "t6": "langues",
+      "l1": "Anglais Courant",
+      "l2": ""
+    },
+    "right": {
+      "about": {
+        "title": "A propos",
+        "1p1s": "Hi there, I'm Pierre and I'm excited to be re-converting to software development after spending several years in manual labor. ",
+        "1p2s": "je suis très curieux, passioné par la résolution de problèmes complexe et par la decouverte de nouveaux domaines.",
+        "1p3s": "j'ai acquis",
+        "1p4s": "mes compétences technique en suivant des cours et en m'impliquant dans des communautées en ligne et j'ai hâte de pouvoir appliquer ce que j'ai appris sur des projets concret.",
+        "2p1s": "Je prend plaisir a expérimenté dans le domaines des nouvelles technologies et explorer de nouveaux language de programmations.",
+        "2p2s": " l'apprentissage continue est pour moi une valeur essentiel dans le domaine en constante evolution du software development",
+        "2p3s": "et je motivé a rester à jours sur toutes les tendences et les pratiques de cette industrie.",
+        "2p4s": "Je suis préssé d'aporter mon enthousiasme, et mes compétences en résolutions de problèmes au monde du ------------ ",
+        "3p1s": "si vous recherchez un developer motivé et (travailleur/acharné), ----------- de prendre contact avec vous !"
+      },
+      "workexp": {
+        "title": "Experiences Professionelles",
+        "t1": "Tecmaplast/Ainterim",
+        "j1": "operateur sur presse",
+        "d1": "Emballage de marchandises, tenir la cadence, faire les controles de qualitee",
+        "time1": "2021-2022",
+        "l1": "Montreal-la-cluse",
+        "t2": "Deliveroo",
+        "j2": "livreur",
+        "d2": "Livraison de repas a domicile",
+        "time2": "2019-2020",
+        "l2": "Lyon",
+        "t3": "Leclerc",
+        "j3": "employe de mise en rayon",
+        "d3": "Mettre en rayon les produits, faire le facing, gerer les stocks",
+        "time3": "2018-2019",
+        "l3": "Millau",
+        "t4": "Eclaireuses er Eclaireurs de France (Montpellier2)",
+        "j4": "Animateur",
+        "d4": "Faire de l'annimation pour des jeunnes pendant le week-end et les vacances",
+        "time4": "2012/2015",
+        "l4": "Montpellier"
+      },
+      "projects": {
+        "title": "Projets",
+        "t1": "Site Simple et Solaire",
+        "d1": "Un site web simple pour une entreprise de pause de panneaux solaires",
+        "time1": "2023",
+        "l1": "vue.js/tailwind",
+        "t2": "Portfolio",
+        "d2": "Un site qui me sert de Portfolio",
+        "time2": "2023",
+        "l2": "vue.js/tailwind",
+        "t3": "Rest API recipes app",
+        "d3": "Un tutoriel Udemy de cration pour la creation d'une application de recette de cuisine",
+        "time3": "2023",
+        "l3": "Django Rest Framework",
+        "t4": "Music App",
+        "d4": "une aplication pour stocker ses musiques sur le web",
+        "time4": "2023",
+        "l4": "vue.js/firestore/vercel"
+      }
+    }
+  }
+}

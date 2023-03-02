@@ -1,0 +1,182 @@
+{
+  "homepage": {
+    "about": {
+      "title": "About Me",
+      "1p1s": "Hi there, I'm Pierre and I'm excited to be re-converting to software development after spending several years in manual labor. ",
+      "1p2s": "I am realy curious, love to solve complex problems and learn new things.",
+      "1p3s": "I have been building",
+      "1p4s": "my technical skills by taking courses and participating in online communities, and I'm eager to apply what I've learned to real-world projects.",
+      "2p1s": "In my free time, I enjoy experimenting with new technologies and exploring new programming languages.",
+      "2p2s": " I believe that continuous learning is essential in the rapidly-evolving field of software development.",
+      "2p3s": ", and I'm committed to staying up-to-date on the latest industry trends and best practices.",
+      "2p4s": "I'm excited to bring my enthusiasm, dedication, and problem-solving skills to the world of software development.",
+      "3p1s": "If you're looking for a motivated and hard-working developer, I would love to connect with you !"
+    },
+    "sectiontitleprojects": "Projects",
+    "progskills": {
+      "title": "Programmation :",
+      "s1": "Python/Django/DRF",
+      "s2": "Javascript/vue.js/pinia/vite",
+      "s3": "Docker",
+      "s4": "Test Driven Devlopment",
+      "s5": "Html/CSS/Tailwind",
+      "s6": "Shell/Git"
+    },
+    "softskills": {
+      "title": "Soft Skills :",
+      "s1": "Autonomy",
+      "s2": "Teamwork",
+      "s3": "Learning capacity",
+      "s4": "Problem solving",
+      "s5": "Organisation",
+      "s6": "Resilience"
+    }
+  },
+  "project1": {
+    "title": "Simple et solaire",
+    "description": {
+      "p1": "A simple website for a company that installs solar pannels",
+      "p2": "for people looking to be autonomous in terms of electricity"
+    },
+    "titlelist": "main take aways",
+    "elemlist": {
+      "1": "putting in practice my vue.js skills",
+      "2": "improving my tailwing comprehension and usage.",
+      "3": "Working with a deadline",
+      "4": "Deployment",
+      "5": "Git and github workfows"
+    }
+  },
+  "project2": {
+    "title": "Portfolio",
+    "description": {
+      "p1": "this portfolio website i am writting on."
+    },
+    "titlelist": "l1",
+    "elemlist": {
+      "1": "putting in practice my vue.js skills",
+      "2": "practicing with tailwind",
+      "3": "Using html2pdf",
+      "4": "Git and github workfows"
+    }
+  },
+  "project3": {
+    "title": "Rest API",
+    "description": {
+      "p1": "A udemy tutorial creating a rest Api for ",
+      "p2": "a food recipes application"
+    },
+    "titlelist": "l1",
+    "elemlist": {
+      "1": "How to set up project with docker",
+      "2": "How to work in a test driven devlopment manner",
+      "3": "usage of django",
+      "4": "usage of Rest apps"
+    }
+  },
+  "project4": {
+    "title": "Music App",
+    "description": {
+      "p1": "An application to store your musics"
+    },
+    "titlelist": "l1",
+    "elemlist": {
+      "1": "How to create vue.js aplication",
+      "2": "Using pinia",
+      "3": "how to use firebase for easy backend",
+      "4": "3 scopes of testing",
+      "5": "deployment with vercel"
+    }
+  },
+  "CV": {
+    "export": "Export to PDF",
+    "name": "DONNADIEU pierre",
+    "asp": "Aspiring Developer",
+    "left": {
+      "t1": "Contact Details",
+      "tphone": "Phone",
+      "phone": "+07 54 00 90 07",
+      "tlocation": "location",
+      "location": "8 rue des petunias, 34070 Montpellier, France",
+      "temail": "E-mail",
+      "email": "pierre@donnadieu.fr",
+      "t2": "Skills",
+      "skill1": "HTML/CSS/tasilwindCSS",
+      "skill2": "Python/Django/DRF",
+      "skill3": "Javascript/Vue.js/pinia",
+      "skill4": "Docker",
+      "skill5": "Test Driven Developpement",
+      "skill6": "Firestore/Vercel",
+      "t3": "Further Education",
+      "fe1": "Open Classroom",
+      "fe2": "Udemy",
+      "t4": "Currently learning",
+      "cl1": "Data Science",
+      "cl2": "Promt Engeneering for AIs",
+      "t5": "Interests and Hobbies",
+      "ih1": "Martial Arts",
+      "ih2": "Reading",
+      "ih3": "Science",
+      "ih4": "Personal Devlopmeent",
+      "t6": "languages",
+      "l1": "English fluent",
+      "l2": "Franch native"
+    },
+    "right": {
+      "about": {
+        "title": "About",
+        "1p1s": "Hi there, I'm Pierre and I'm excited to be re-converting to software development after spending several years in manual labor. ",
+        "1p2s": "I am realy curious, love to solve complex problems and learn new things.",
+        "1p3s": "I have been building",
+        "1p4s": "my technical skills by taking courses and participating in online communities, and I'm eager to apply what I've learned to real-world projects.",
+        "2p1s": "In my free time, I enjoy experimenting with new technologies and exploring new programming languages.",
+        "2p2s": " I believe that continuous learning is essential in the rapidly-evolving field of software development.",
+        "2p3s": ", and I'm committed to staying up-to-date on the latest industry trends and best practices.",
+        "2p4s": "I'm excited to bring my enthusiasm, dedication, and problem-solving skills to the world of software development.",
+        "3p1s": "If you're looking for a motivated and hard-working developer, I would love to connect with you !"
+      },
+      "workexp": {
+        "title": "Work Experiences",
+        "t1": "Tecmaplast/Ainterim",
+        "j1": "press operator",
+        "d1": "Packing marchandises, keeping pace with the machines, Performing quality checks. ",
+        "time1": "2021-2022",
+        "l1": "Montreal-la-cluse",
+        "t2": "Deliveroo",
+        "j2": "delivery person",
+        "d2": "Delivering restaurants meals by bike to customers. ",
+        "time2": "2019-2020",
+        "l2": "Lyon",
+        "t3": "Leclerc",
+        "j3": "stock clerk",
+        "d3": "Shelving items in a supermarket, managing the stocks. ",
+        "time3": "2018-2019",
+        "l3": "Millau",
+        "t4": "Eclaireuses er Eclaireurs de France Montpellier2(French Scouts)",
+        "j4": "Animator",
+        "d4": "Animating activities for kids during week-ends and holidays,  ",
+        "time4": "2012/2015",
+        "l4": "Montpellier"
+      },
+      "projects": {
+        "title": "Projects",
+        "t1": "Simple et Solaire website",
+        "d1": "A simple website for a company that installs solar pannels for people looking to be autonomous in terms of energy  ",
+        "time1": "2023",
+        "l1": "vue.js/tailwind",
+        "t2": "Portfolio",
+        "d2": "A simple portfolio website ",
+        "time2": "2023",
+        "l2": "vue.js/tailwind",
+        "t3": "Rest API recipes app",
+        "d3": "A udemy tutorial creating a rest Api for a food recipes application",
+        "time3": "2023",
+        "l3": "Django Rest Framework",
+        "t4": "Music App",
+        "d4": "An application to store your musics ",
+        "time4": "2023",
+        "l4": "vue.js/firestore/vercel"
+      }
+    }
+  }
+}
