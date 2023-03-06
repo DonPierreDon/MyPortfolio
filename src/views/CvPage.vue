@@ -46,10 +46,10 @@
                   }}</a>
                 </li>
                 <li class="px-2 mt-1">
-                  <strong class="mr-1">{{ $t("CV.left.temail") }} </strong>
-                  <a href="mailto:pierre@donnadieu.fr" class="block">{{
-                    $t("CV.left.email")
-                  }}</a>
+                  <strong class="mr-1">E-mail </strong>
+                  <a href="mailto:pierre@donnadieu.fr" class="block"
+                    >pierre@donnadieu.fr</a
+                  >
                 </li>
                 <li class="px-2 mt-1">
                   <strong class="mr-1">{{ $t("CV.left.tlocation") }}</strong
