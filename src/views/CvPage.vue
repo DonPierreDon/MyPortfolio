@@ -41,15 +41,11 @@
               <ul class="mt-2 mb-10 text-xl">
                 <li class="px-2 mt-1">
                   <strong class="mr-1">{{ $t("CV.left.tphone") }} </strong>
-                  <a href="tel:+0745009007" class="block">{{
-                    $t("CV.left.phone")
-                  }}</a>
+                  <a href="#" class="block">{{ $t("CV.left.phone") }}</a>
                 </li>
                 <li class="px-2 mt-1">
                   <strong class="mr-1">{{ $t("CV.left.temail") }} </strong>
-                  <a href="mailto:pierre@donnadieu.fr" class="block">{{
-                    $t("CV.left.email")
-                  }}</a>
+                  <a href="#" class="block">{{ $t("CV.left.email") }}</a>
                 </li>
                 <li class="px-2 mt-1">
                   <strong class="mr-1">{{ $t("CV.left.tlocation") }}</strong
@@ -294,11 +290,11 @@
 </template>
 
 <script>
-import html2pdf from "html2pdf.js";
+/* import html2pdf from "html2pdf.js"; */
 
 export default {
   name: "CV",
-  methods: {
+  /*   methods: {
     exportToPDF() {
       let body = document.body;
       let html = document.documentElement;
@@ -320,6 +316,6 @@ export default {
         },
       });
     },
-  },
+  }, */
 };
 </script>

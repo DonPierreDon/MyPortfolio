@@ -18,6 +18,15 @@
               CV
             </router-link>
           </li>
+          <li>
+            <router-link
+              href="#"
+              :to="{ name: 'test' }"
+              class="px-2 text-white"
+            >
+              test
+            </router-link>
+          </li>
           <!-- Navigation Links -->
         </ul>
         <ul class="ml-auto">

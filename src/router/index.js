@@ -1,7 +1,7 @@
 import { createRouter, createWebHistory } from "vue-router";
 import CvPage from "@/views/CvPage.vue";
 import HomePage from "@/views/HomePage.vue";
-import ArtificialInt from "@/views/ArtificialInt.vue";
+import TestPage from "@/views/TestPage.vue";
 
 const routes = [
   {
@@ -14,11 +14,7 @@ const routes = [
     name: "cv",
     component: CvPage,
   },
-  {
-    path: "/AI",
-    name: "ai",
-    component: ArtificialInt,
-  },
+  { path: "/test", name: "test", component: TestPage },
 ];
 
 const router = createRouter({

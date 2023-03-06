@@ -1,7 +1,7 @@
 <template>
   <header-comp></header-comp>
 
-  <RouterView />
+  <RouterView></RouterView>
 </template>
 
 <script>
