@@ -18,12 +18,6 @@
               CV
             </router-link>
           </li>
-          <li>
-            <router-link href="#" :to="{ name: 'ai' }" class="px-2 text-white">
-              ExperimentsAI
-            </router-link>
-          </li>
-
           <!-- Navigation Links -->
         </ul>
         <ul class="ml-auto">

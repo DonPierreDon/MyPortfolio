@@ -2,25 +2,20 @@
   "homepage": {
     "about": {
       "title": "About Me",
-      "1p1s": "Hi there, I'm Pierre and I'm excited to be re-converting to software development after spending several years in manual labor. ",
-      "1p2s": "I am realy curious, love to solve complex problems and learn new things.",
-      "1p3s": "I have been building",
-      "1p4s": "my technical skills by taking courses and participating in online communities, and I'm eager to apply what I've learned to real-world projects.",
-      "2p1s": "In my free time, I enjoy experimenting with new technologies and exploring new programming languages.",
-      "2p2s": " I believe that continuous learning is essential in the rapidly-evolving field of software development.",
-      "2p3s": ", and I'm committed to staying up-to-date on the latest industry trends and best practices.",
-      "2p4s": "I'm excited to bring my enthusiasm, dedication, and problem-solving skills to the world of software development.",
-      "3p1s": "If you're looking for a motivated and hard-working developer, I would love to connect with you !"
+      "1p1s": "Currently undergoing a career change into the field of computer science, I am now able to offer my services as a beginner Full Stack Web Developer.",
+      "1p2s": "Dynamic, self-taught, and passionate, I am able to work both independently and as part of a team.",
+      "1p3s": "I also enjoy analyzing and solving complex problems.",
+      "2p1s": "If you are looking for a motivated and hardworking developer, I would love to discuss with you!"
     },
     "sectiontitleprojects": "Projects",
     "progskills": {
-      "title": "Programmation :",
+      "title": "programming :",
       "s1": "Python/Django/DRF",
       "s2": "Javascript/vue.js/pinia/vite",
       "s3": "Docker",
-      "s4": "Test Driven Devlopment",
+      "s4": "Test Driven Development",
       "s5": "Html/CSS/Tailwind",
-      "s6": "Shell/Git"
+      "s6": "Firestore/Vercel"
     },
     "softskills": {
       "title": "Soft Skills :",
@@ -28,14 +23,14 @@
       "s2": "Teamwork",
       "s3": "Learning capacity",
       "s4": "Problem solving",
-      "s5": "Organisation",
-      "s6": "Resilience"
+      "s5": "Organization and time management",
+      "s6": "Patience"
     }
   },
   "project1": {
     "title": "Simple et solaire",
     "description": {
-      "p1": "A simple website for a company that installs solar pannels",
+      "p1": "A simple website for a company that installs solar panels",
       "p2": "for people looking to be autonomous in terms of electricity"
     },
     "titlelist": "main take aways",
@@ -50,7 +45,7 @@
   "project2": {
     "title": "Portfolio",
     "description": {
-      "p1": "this portfolio website i am writting on."
+      "p1": "this portfolio website i am writing on."
     },
     "titlelist": "l1",
     "elemlist": {
@@ -69,7 +64,7 @@
     "titlelist": "l1",
     "elemlist": {
       "1": "How to set up project with docker",
-      "2": "How to work in a test driven devlopment manner",
+      "2": "How to work in a test driven development manner",
       "3": "usage of django",
       "4": "usage of Rest apps"
     }
@@ -81,9 +76,9 @@
     },
     "titlelist": "l1",
     "elemlist": {
-      "1": "How to create vue.js aplication",
+      "1": "How to create vue.js application",
       "2": "Using pinia",
-      "3": "how to use firebase for easy backend",
+      "3": "how to use firebase for easy back-end",
       "4": "3 scopes of testing",
       "5": "deployment with vercel"
     }
@@ -101,7 +96,7 @@
       "temail": "E-mail",
       "email": "pierre@donnadieu.fr",
       "t2": "Skills",
-      "skill1": "HTML/CSS/tasilwindCSS",
+      "skill1": "HTML/CSS/tailwindCSS",
       "skill2": "Python/Django/DRF",
       "skill3": "Javascript/Vue.js/pinia",
       "skill4": "Docker",
@@ -112,28 +107,31 @@
       "fe2": "Udemy",
       "t4": "Currently learning",
       "cl1": "Data Science",
-      "cl2": "Promt Engeneering for AIs",
+      "cl2": "Prompt Engineering for AIs",
       "t5": "Interests and Hobbies",
       "ih1": "Martial Arts",
       "ih2": "Reading",
       "ih3": "Science",
-      "ih4": "Personal Devlopmeent",
-      "t6": "languages",
+      "ih4": "Personal Development",
+      "t6": "Soft Skills",
+      "a1": "Autonomy",
+      "a2": "Teamwork",
+      "a3": "Learning capacity",
+      "a4": "Problem solving",
+      "a5": "Organization and time management",
+      "a6": "Resilience",
+      "a7": "Patience",
+      "t7": "languages",
       "l1": "English fluent",
       "l2": "Franch native"
     },
     "right": {
       "about": {
         "title": "About",
-        "1p1s": "Hi there, I'm Pierre and I'm excited to be re-converting to software development after spending several years in manual labor. ",
-        "1p2s": "I am realy curious, love to solve complex problems and learn new things.",
-        "1p3s": "I have been building",
-        "1p4s": "my technical skills by taking courses and participating in online communities, and I'm eager to apply what I've learned to real-world projects.",
-        "2p1s": "In my free time, I enjoy experimenting with new technologies and exploring new programming languages.",
-        "2p2s": " I believe that continuous learning is essential in the rapidly-evolving field of software development.",
-        "2p3s": ", and I'm committed to staying up-to-date on the latest industry trends and best practices.",
-        "2p4s": "I'm excited to bring my enthusiasm, dedication, and problem-solving skills to the world of software development.",
-        "3p1s": "If you're looking for a motivated and hard-working developer, I would love to connect with you !"
+        "1p1s": "Currently undergoing a career change into the field of computer science, I am now able to offer my services as a beginner Full Stack Web Developer.",
+        "1p2s": "Dynamic, self-taught, and passionate, I am able to work both independently and as part of a team.",
+        "1p3s": "I also enjoy analyzing and solving complex problems.",
+        "2p1s": "If you are looking for a motivated and hardworking developer, I would love to discuss with you!"
       },
       "workexp": {
         "title": "Work Experiences",
@@ -176,6 +174,15 @@
         "d4": "An application to store your musics ",
         "time4": "2023",
         "l4": "vue.js/firestore/vercel"
+      },
+      "education": {
+        "title": "Education",
+        "t1": "baccalaureate level",
+        "time1": "2023",
+        "l1": "High School Jean Monnet",
+        "t2": "brevet des collèges",
+        "time2": "2023",
+        "l2": "middle school Saint Francois Regis"
       }
     }
   }

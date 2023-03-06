@@ -9,12 +9,12 @@
             <div class="w-full">
               <img
                 alt="profilePicture"
-                class="block object-cover w-full h-full rounded-lg"
-                src="/assets/img/ProfilePic.JPG"
+                class="block object-cover object-center w-full h-96 rounded-lg"
+                src="/assets/img/profil.png"
               />
             </div>
           </div>
-          <div class="flex flex-wrap w-2/2">
+          <div class="flex flex-wrap w-2/3">
             <section class="bg-orange-300 py-8">
               <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div class="text-center">
@@ -27,18 +27,9 @@
                     {{ $t("homepage.about.1p1s") }}
                     {{ $t("homepage.about.1p2s") }}
                     {{ $t("homepage.about.1p3s") }}
-                    {{ $t("homepage.about.1p4s") }}
                   </p>
                   <p class="mt-4 text-xl text-gray-900">
                     {{ $t("homepage.about.2p1s") }}
-                    {{ $t("homepage.about.2p2s") }}
-                    {{ $t("homepage.about.2p3s") }}
-                    {{ $t("homepage.about.2p4s") }}
-                  </p>
-                  <p class="mt-4 text-xl text-gray-900">
-                    {{ $t("homepage.about.3p1s") }}
-                    {{ $t("homepage.about.3p2s") }}
-                    {{ $t("homepage.about.3p3s") }}
                   </p>
                 </div>
               </div>
@@ -129,8 +120,6 @@
                 <p class="text-gray-700 mb-4 text-xl">
                   {{ $t("project1.description.p1") }}
                   {{ $t("project1.description.p2") }}
-                  {{ $t("project1.description.p3") }}
-                  {{ $t("project1.description.p4") }}
                 </p>
                 <div class="flex items-center mb-4">
                   <div class="border-t-2 border-emerald-800 flex-1 mr-4"></div>
@@ -182,9 +171,6 @@
               <div class="p-4 rounded-lg">
                 <p class="text-gray-700 mb-4 text-xl">
                   {{ $t("project2.description.p1") }}
-                  {{ $t("project2.description.p2") }}
-                  {{ $t("project2.description.p3") }}
-                  {{ $t("project2.description.p4") }}
                 </p>
                 <div class="flex items-center mb-4">
                   <div class="border-t-2 border-emerald-800 flex-1 mr-4"></div>
@@ -243,8 +229,6 @@
                 <p class="text-gray-700 text-xl mb-4">
                   {{ $t("project3.description.p1") }}
                   {{ $t("project3.description.p2") }}
-                  {{ $t("project3.description.p3") }}
-                  {{ $t("project3.description.p4") }}
                 </p>
                 <div class="flex items-center mb-4">
                   <div class="border-t-2 border-emerald-800 flex-1 mr-4"></div>
@@ -298,9 +282,6 @@
               <div class="p-4 rounded-lg">
                 <p class="text-gray-700 text-xl mb-4">
                   {{ $t("project4.description.p1") }}
-                  {{ $t("project4.description.p2") }}
-                  {{ $t("project4.description.p3") }}
-                  {{ $t("project4.description.p4") }}
                 </p>
                 <div class="flex items-center mb-4">
                   <div class="border-t-2 border-emerald-800 flex-1 mr-4"></div>
