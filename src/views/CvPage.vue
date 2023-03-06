@@ -1,14 +1,14 @@
 <template>
   <div>
     <div>
-      <div class="flex justify-center">
+      <!--       <div class="flex justify-center">
         <button
           class="bg-red-600 hover:bg-red-500 hover:translate-y-1 rounded-lg text-2xl m-2 p-2"
           @click="exportToPDF"
         >
           {{ $t("CV.export") }}
         </button>
-      </div>
+      </div> -->
       <div class="flex justify-center content-center" id="convert">
         <!-- outer container -->
         <div
@@ -19,39 +19,12 @@
             <!-- social icons-->
 
             <!-- tech blog -->
-            <div class="flex justify-between items-center">
-              <div>
-                <img
-                  alt="profilePicture"
-                  class="block object-cover object-center w-full h-72"
-                  src="/assets/img/profil.png"
-                />
-              </div>
-              <div class="grid justify-items-end">
-                <h1 class="text-7xl font-extrabold">{{ $t("CV.name") }}</h1>
-                <p class="text-2xl mt-5">{{ $t("CV.asp") }}</p>
-              </div>
-            </div>
           </div>
           <!-- detailed info -->
           <div class="flex gap-x-10 mt-10">
             <div class="w-2/6">
               <!-- contact details -->
               <strong class="text-2xl font-bold">{{ $t("CV.left.t1") }}</strong>
-              <ul class="mt-2 mb-10 text-xl">
-                <li class="px-2 mt-1">
-                  <strong class="mr-1">{{ $t("CV.left.tphone") }} </strong>
-                  <a href="#" class="block">{{ $t("CV.left.phone") }}</a>
-                </li>
-                <li class="px-2 mt-1">
-                  <strong class="mr-1">{{ $t("CV.left.temail") }} </strong>
-                  <a href="#" class="block">{{ $t("CV.left.email") }}</a>
-                </li>
-                <li class="px-2 mt-1">
-                  <strong class="mr-1">{{ $t("CV.left.tlocation") }}</strong
-                  ><span class="block">{{ $t("CV.left.location") }}</span>
-                </li>
-              </ul>
 
               <!-- github stats -->
               <!-- skills -->
