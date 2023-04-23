@@ -8,6 +8,7 @@
       "2p1s": "If you are looking for a motivated and hardworking developer, I would love to discuss with you!"
     },
     "sectiontitleprojects": "Projects",
+    "skillstitle": "Skills",
     "progskills": {
       "title": "programming :",
       "s1": "Python/Django/DRF",
@@ -66,7 +67,8 @@
       "1": "How to set up project with docker",
       "2": "How to work in a test driven development manner",
       "3": "usage of django",
-      "4": "usage of Rest apps"
+      "4": "usage of Rest apps",
+      "5": "Git and github workfows"
     }
   },
   "project4": {

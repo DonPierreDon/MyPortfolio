@@ -8,6 +8,7 @@
       "2p1s": "Si vous cherchez un dévelopeur motive et travailleur j'aimerais beaucoup echanger avec vous !"
     },
     "sectiontitleprojects": "Projets",
+    "skillstitle": "Compétences",
     "progskills": {
       "title": "Programmation :",
       "s1": "Python/Django/DRF",
@@ -67,7 +68,8 @@
       "1": "Comment mettre en place un projet avec docker",
       "2": "Comment travailler en codant les tests en premier",
       "3": "utilisation du framework django",
-      "4": "Mise en place des applications rest."
+      "4": "Mise en place des applications rest.",
+      "5": "Worflows git et github"
     }
   },
   "project4": {
