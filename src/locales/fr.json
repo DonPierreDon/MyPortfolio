@@ -1,7 +1,7 @@
 {
   "homepage": {
     "about": {
-      "title": "About Me",
+      "title": "Mon Profil",
       "1p1s": "En cours de reconversion dans le domaine de l'informatique, je peux aujourd'hui vous proposer mes services en tant que développeur web Full stack débutant. ",
       "1p2s": "Dynamique, autodidacte et passionné, je suis capable de travailler de façon autonome comme en équipe ",
       "1p3s": "j'aime également analyser et résoudre des problèmes complexes et suis en apprentissage et découverte constant de nouveaux outils.",
@@ -84,109 +84,6 @@
       "3": "utilisation de firestore pour la gestion de la base de donnes",
       "4": "les différents domaines d'application des tests",
       "5": "le déploiement avec vercel"
-    }
-  },
-  "CV": {
-    "export": "Exporter en PDF",
-    "name": "DONNADIEU pierre",
-    "asp": "Aspirant développeur",
-    "left": {
-      "t1": "Contact",
-      "tphone": "Telephone",
-      "phone": "+07 54 00 90 07",
-      "tlocation": "Adresse",
-      "location": "8 rue des pétunias, 34070 Montpellier, France",
-      "temail": "mail",
-      "email": "pierre@donnadieu.fr",
-      "t2": "Programmation",
-      "skill1": "HTML/CSS/tasilwindCSS",
-      "skill2": "Python/Django/DRF",
-      "skill3": "Javascript/Vue.js/pinia",
-      "skill4": "Docker",
-      "skill5": "Test Driven Developpement",
-      "skill6": "Firestore/Vercel",
-      "t3": "E-learning",
-      "fe1": "Open Classroom",
-      "fe2": "Udemy",
-      "t4": "En cours",
-      "cl1": "Data Science",
-      "cl2": "Promt Engeneering pour différentes IA",
-      "t5": "Centres d'interet et loisirs",
-      "ih1": "Art Martiaux",
-      "ih2": "Lecture",
-      "ih3": "Science",
-      "ih4": "Développement Personnel",
-      "t6": "Atouts",
-      "a1": "Autonomie",
-      "a2": "Travail d'equipe",
-      "a3": "Capacité d'apprentissage",
-      "a4": "Resolution de problèmes",
-      "a5": "Gestion du temps et organisation",
-      "a6": "Patience",
-      "a7": "Adaptabilité",
-      "t7": "langues",
-      "l1": "Anglais Courant",
-      "l2": ""
-    },
-    "right": {
-      "about": {
-        "title": "A propos",
-        "1p1s": "En cours de reconversion dans le domaine de l'informatique, je peux aujourd'hui vous proposer mes services en tant que développeur web Full stack débutant. ",
-        "1p2s": "Dynamique, autodidacte et passionné, je suis capable de travailler de façon autonome comme en équipe ",
-        "1p3s": "j'aime également analyser et résoudre des problèmes complexes",
-        "2p1s": "Si vous cherchez un développeur motivé et travailleur j'aimerais beaucoup échanger avec vous !"
-      },
-      "workexp": {
-        "title": "Experiences Professionelles",
-        "t1": "Tecmaplast/Ainterim",
-        "j1": "opérateur sur presse",
-        "d1": "Emballage de marchandises, tenir la cadence, faire les contrôles de qualité",
-        "time1": "2021-2022",
-        "l1": "Montréal-la-cluse",
-        "t2": "Deliveroo",
-        "j2": "livreur",
-        "d2": "Livraison de repas a domicile",
-        "time2": "2019-2020",
-        "l2": "Lyon",
-        "t3": "Leclerc",
-        "j3": "employé de mise en rayon",
-        "d3": "Mettre en rayon les produits, faire le facing, gérer les stocks",
-        "time3": "2018-2019",
-        "l3": "Millau",
-        "t4": "Eclaireuses er Eclaireurs de France (Montpellier2)",
-        "j4": "Animateur",
-        "d4": "Faire de l'animation pour des jeunes pendant le week-end et les vacances",
-        "time4": "2012/2015",
-        "l4": "Montpellier"
-      },
-      "projects": {
-        "title": "Projets",
-        "t1": "Site Simple et Solaire",
-        "d1": "Un site web simple pour une entreprise de pause de panneaux solaires",
-        "time1": "2023",
-        "l1": "vue.js/tailwind",
-        "t2": "Portfolio",
-        "d2": "Un site qui me sert de Portfolio",
-        "time2": "2023",
-        "l2": "vue.js/tailwind",
-        "t3": "Rest API recipes app",
-        "d3": "Un tutoriel Udemy de création d'une application de recettes de cuisine",
-        "time3": "2023",
-        "l3": "Django Rest Framework",
-        "t4": "Music App",
-        "d4": "une application pour stocker ses musiques sur le web",
-        "time4": "2023",
-        "l4": "vue.js/firestore/vercel"
-      },
-      "education": {
-        "title": "Education",
-        "t1": "Niveau Bac",
-        "time1": "2013",
-        "l1": "Lycée Jean Monnet",
-        "t2": "Brevet des colleges",
-        "time2": "2010",
-        "l2": "Collège Saint-Francois-Regis"
-      }
     }
   }
 }

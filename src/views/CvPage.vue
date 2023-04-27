@@ -1,15 +1,26 @@
 <template>
-  <div class="pdf-container mt-10">
-    <iframe
-      :src="'/assets/img/CvPierre.pdf#toolbar=0&navpanes=0&scrollbar=0'"
-      class="pdf-iframe"
-    ></iframe>
+  <div class="pdf-container mt-10" v-if="isFrench">
+    <iframe :src="fr" class="pdf-iframe"></iframe>
+  </div>
+  <div class="pdf-container mt-10" v-else>
+    <iframe :src="eng" class="pdf-iframe"></iframe>
   </div>
 </template>
 
 <script>
 export default {
   name: "CV",
+  data() {
+    return {
+      eng: "/assets/img/CvPierre.pdf#toolbar=0&navpanes=0&scrollbar=0",
+      fr: "/assets/img/CvPierreFr.pdf#toolbar=0&navpanes=0&scrollbar=0",
+    };
+  },
+  computed: {
+    isFrench() {
+      return this.$i18n.locale === "fr";
+    },
+  },
 };
 </script>
 <style>

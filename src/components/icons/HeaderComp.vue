@@ -42,7 +42,7 @@ export default {
   },
   computed: {
     currentLocale() {
-      return this.$i18n.locale === "fr" ? "French" : "English";
+      return this.$i18n.locale === "fr" ? "Francais" : "English";
     },
   },
 };
