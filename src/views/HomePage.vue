@@ -136,22 +136,22 @@
                 </h2>
                 <div class="flex flex-wrap mb-4 text-xl">
                   <div class="w-1/2">
-                    <button
+                    <a
                       class="text-orange-500 hover:text-orange-400 hover:translate-y-1 relative inline-block transition-all duration-200"
                       href="https://github.com/DonPierreDon/Simple-et-Solaire"
                       target="_blank"
                     >
                       Github
-                    </button>
+                    </a>
                   </div>
                   <div class="w-1/2">
-                    <button
+                    <a
                       class="text-blue-700 hover:text-blue-600 hover:translate-y-1 relative inline-block transition-all duration-200"
                       href="https://simple-et-solaire.vercel.app/"
                       target="_blank"
                     >
                       Website
-                    </button>
+                    </a>
                   </div>
                 </div>
                 <div class="flex justify-center w-full">
